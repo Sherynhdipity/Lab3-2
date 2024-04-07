@@ -1,6 +1,10 @@
-# fooderlich
+# Activity 6 - Interactive Widgets
 
-A new Flutter project.
+application of interactive widgets. In particular:
+• Gesture-based widgets
+• Time and date picker widgets
+• Input and selection widgets
+• Dismissable widgets
 
 ## Getting Started
 
