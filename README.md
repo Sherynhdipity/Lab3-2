@@ -1,10 +1,10 @@
 # Activity 6 - Interactive Widgets
 
 application of interactive widgets. In particular:
-• Gesture-based widgets
-• Time and date picker widgets
-• Input and selection widgets
-• Dismissable widgets
+- Gesture-based widgets
+- Time and date picker widgets
+- Input and selection widgets
+- Dismissable widgets
 
 ## Getting Started
 
