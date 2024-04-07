@@ -1,4 +1,4 @@
-# Activity 6 - Interactive Widgets
+# Activity 3.2 - Interactive Widgets
 
 application of interactive widgets. In particular:
 - Gesture-based widgets
